@@ -1,0 +1,122 @@
+[
+    {
+        "id": "82447878",
+        "title": "QA engineer / Тестировщик (тестирование web-проектов)",
+        "link": "https://hh.ru/vacancy/82447878",
+        "salary_min": 40000,
+        "salary_max": 80000,
+        "description": "Базовые знания HTML, CSS, JS. Опыт работы с Git. SQL. PHP / <highlighttext>Python</highlighttext>. Chrome Dev Tools. Умение работать с документацией. "
+    },
+    {
+        "id": "82334862",
+        "title": "Системный администратор",
+        "link": "https://hh.ru/vacancy/82334862",
+        "salary_min": 100000,
+        "salary_max": null,
+        "description": "Владение ОС семейств Windows и Linux на уровне администратора (серверные: Windows Server 2019 и Centos 7, пользовательские: Windows 8, 10..."
+    },
+    {
+        "id": "81863612",
+        "title": "Начинающий DevOps программист со знанием любого из языков C++, C# или Java",
+        "link": "https://hh.ru/vacancy/81863612",
+        "salary_min": 30000,
+        "salary_max": 60000,
+        "description": "Опыт разработки на C++, C#, Java, JS, <highlighttext>Python</highlighttext>, Groovy. Опыт работы с Linux. Опыт написания скриптов на cmd, Bash. "
+    },
+    {
+        "id": "81528884",
+        "title": "Специалист по кибер-безопасности",
+        "link": "https://hh.ru/vacancy/81528884",
+        "salary_min": 75000,
+        "salary_max": 120000,
+        "description": "Знание моделей OSI, стэка протоколовTCP/IP, основных сетевых протоколов, понимание базовых принципов ИБ. Уверенный пользователь Linux-дистрибутивов на уровне администратора. "
+    },
+    {
+        "id": "82196738",
+        "title": "Инженер по тестированию (mobile)",
+        "link": "https://hh.ru/vacancy/82196738",
+        "salary_min": "Не указана",
+        "salary_max": "Не указана",
+        "description": "Знаешь один из языков программирования (Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#). Работаешь с системами контроля версий. Работаешь с REST..."
+    },
+    {
+        "id": "82011757",
+        "title": "IT Analyst Intern for Logistics department / Менеджер по внедрению IT проектов",
+        "link": "https://hh.ru/vacancy/82011757",
+        "salary_min": 85000,
+        "salary_max": null,
+        "description": "Have a solid understanding of <highlighttext>Python</highlighttext> – junior lvl, SQL. Strong English verbal and writing skill. Experience in <highlighttext>Python</highlighttext> Data Analytics..."
+    },
+    {
+        "id": "82293818",
+        "title": "Инженер по сетевой безопасности",
+        "link": "https://hh.ru/vacancy/82293818",
+        "salary_min": "Не указана",
+        "salary_max": "Не указана",
+        "description": "...понимания технической документации и совместной работы с англоязычной TAC. Ответственность, самостоятельность, многозадачность. Знание языка программирования для автоматизации рутинных задач (<highlighttext>Python</highlighttext>)."
+    },
+    {
+        "id": "81855895",
+        "title": "Системный администратор",
+        "link": "https://hh.ru/vacancy/81855895",
+        "salary_min": 50000,
+        "salary_max": 60000,
+        "description": "Доводишь дела до конца без постоянных напоминаний. Имеешь опыт написания скриптов на powershell, bash, <highlighttext>python</highlighttext>. Работал с jira, confluence (или..."
+    },
+    {
+        "id": "81286771",
+        "title": "Data Engineer",
+        "link": "https://hh.ru/vacancy/81286771",
+        "salary_min": "Не указана",
+        "salary_max": "Не указана",
+        "description": "Высшее профильное образование: математическое/физико-математическое. Знания <highlighttext>Python</highlighttext>. Опыт работы с SQL. Опыт работы с Airflow. Опыт работы с Git. "
+    },
+    {
+        "id": "76339987",
+        "title": "Специалист по технической защите информации",
+        "link": "https://hh.ru/vacancy/76339987",
+        "salary_min": "Не указана",
+        "salary_max": "Не указана",
+        "description": "Опыт автоматизации и умение программировать на одном или нескольких скриптовых языках (bash, perl, <highlighttext>python</highlighttext>). Понимание принципов компьютерной и сетевой безопасности..."
+    },
+    {
+        "id": "81047163",
+        "title": "Системный администратор (IT-специалист)",
+        "link": "https://hh.ru/vacancy/81047163",
+        "salary_min": 30000,
+        "salary_max": 45000,
+        "description": "Приветствуется опыт программирования (<highlighttext>python</highlighttext>, php, JavaScript). Высшее профессиональное образование по специальностям, предусмотренным направлением «Информационные технологии». Грамотная письменная и устная речь. "
+    },
+    {
+        "id": "81843635",
+        "title": "Software Testing Automation Engineer",
+        "link": "https://hh.ru/vacancy/81843635",
+        "salary_min": "Не указана",
+        "salary_max": "Не указана",
+        "description": "...и письменного общения. Владение английским языком на уровне Intermediate и выше. Знание Appium и других инструментов автотестирования. Знание JavaScript, <highlighttext>Python</highlighttext>."
+    },
+    {
+        "id": "80831989",
+        "title": "Системный аналитик (middle)",
+        "link": "https://hh.ru/vacancy/80831989",
+        "salary_min": "Не указана",
+        "salary_max": "Не указана",
+        "description": "Высшее образование (желательно техническое, математическое или экономическое). Релевантный опыт работы от 3-х лет. Умение работать с BPMN, EPC, IDEF..."
+    },
+    {
+        "id": "81228990",
+        "title": "Ведущий специалист по ценообразованию",
+        "link": "https://hh.ru/vacancy/81228990",
+        "salary_min": 58000,
+        "salary_max": 69000,
+        "description": "Человека с аналитическим складом ума и педантичным отношением к цифрам. Обладающего знаниями методов анализа данных и опыт работы с <highlighttext>Python</highlighttext>. "
+    },
+    {
+        "id": "79015257",
+        "title": "Ночной специалист службы поддержки с техническими знаниями (Браузер)",
+        "link": "https://hh.ru/vacancy/79015257",
+        "salary_min": 18000,
+        "salary_max": 45000,
+        "description": "Умеете читать языки JavaScript, HTML и <highlighttext>Python</highlighttext>. Имеете высшее или неоконченное высшее образование (техническое будет плюсом). Помогали людям онлайн. "
+    }
+]
